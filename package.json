@@ -1,0 +1,14 @@
+{
+  "name": "segunda-parte",
+  "version": "1.0.0",
+  "description": "Curso NODEJS",
+  "main": "archivo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braiam",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
